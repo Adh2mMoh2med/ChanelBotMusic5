@@ -1,6 +1,6 @@
 token=NTIwMzgwNzI2MDk3NDc3NjMz.DvnFoA.Tmrq5U6tglATA_K7g23myvKNkfc
 prefix=5
-game=Chanel Music | 1
+game=Chanel Music | 5
 owner=502748478267719681
 stayinchannel=true
 songinstatus=false
